@@ -1,16 +1,16 @@
+#include <algorithm>
+#include <cassert>
+#include <cmath>
 #include <cstdio>
 #include <cstdlib>
 #include <cstring>
-#include <iostream>
-#include <vector>
-#include <string>
-#include <algorithm>
-#include <stack>
-#include <queue>
-#include <set>
-#include <map>
-#include <cassert>
-#include <cmath>
 #include <iomanip>
+#include <iostream>
+#include <map>
+#include <queue>
 #include <random>
-
+#include <ranges>
+#include <set>
+#include <stack>
+#include <string>
+#include <vector>
